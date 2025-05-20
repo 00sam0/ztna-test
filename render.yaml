@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: ztna-fastapi
+    env: docker
+    plan: free
