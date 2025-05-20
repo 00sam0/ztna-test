@@ -36,3 +36,4 @@ uvicorn app.main:app --reload
 - `POST /register`: Register a new user
 - `POST /login`: Get JWT token
 - `GET /`: Basic test route
+"# ztna-test" 
